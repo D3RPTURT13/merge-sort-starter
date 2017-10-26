@@ -15,13 +15,5 @@ public class MergeSorter {
 		 * the entries in list from lo to hi.
 		 */
 	}
-
-	public static String printArray(int[] arr) {
-		String returnString = "";
-		for (int elem : arr) {
-			returnString += elem + "\n";
-		}
-		return returnString;
-	}
 	
 }
